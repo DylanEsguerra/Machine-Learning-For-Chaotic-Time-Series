@@ -4,7 +4,7 @@ Welcome to the "Machine Learning for Chaotic Time Series Forecasts" project! Thi
 
 ## Project Overview
 
-The project currently focuses on multi-step and single-step forecasts of the logistic map, serving as a foundational for future exploration of chaotic time series prediction. The goal is to learn more about the strengths and weaknesses of Deep Learning for chaotic systems in various environments of data availability and noise. 
+The project currently focuses on multi-step and single-step forecasts of the logistic map, serving as a foundational for future exploration of chaotic time series prediction. The goal is to learn more about the strengths and weaknesses of Machine Learning for chaotic systems in various environments of data availability and noise. 
 
 ## Objectives
 
