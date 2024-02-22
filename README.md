@@ -6,19 +6,6 @@ Welcome to the "Machine Learning for Chaotic Time Series Forecasts" project! Thi
 
 The project currently focuses on multi-step and single-step forecasts of the logistic map, serving as a foundational for future exploration of chaotic time series prediction. The goal is to learn more about the strengths and weaknesses of Machine Learning for chaotic systems in various environments of data availability and noise. 
 
-## Objectives
-
-The primary objectives of this project are as follows:
-
-1. **Investigate Forecast Horizon Differences:**
-   - Examine and compare the forecast horizon of stable and chaotic parameterizations within the same dynamic system.
-
-2. **Explore Scaling with Observed Data Length:**
-   - Understand how the forecast horizon scales in relation to the length of the observed data.
-
-3. **Assess Sensitivity to Observation Noise:**
-   - Analyze the sensitivity of forecasts to increased observation noise, considering its impact on prediction accuracy.
-
 ## Current Status
 
 As of now, initial tests have been conducted on both multi-step and single-step forecasts of the logistic map. The project is in its early stages, and additional experiments, analyses, and implementations are planned to expand its scope.
